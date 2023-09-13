@@ -1,0 +1,191 @@
+{
+  "tasks": [
+    {
+      "_id": "6428bf98a0586189f559bd41",
+      "name": "Become a senior Developer",
+      "description": "code like a boss",
+      "status": "63961cc83be09ca981162e5f",
+      "priority": "5",
+      "__v": 0
+    },
+    {
+      "_id": "6440b134d5bbba0903faa098",
+      "name": "Finish Kanban",
+      "description": "Finish Kanban Thunk",
+      "status": "done",
+      "priority": "1",
+      "__v": 0
+    },
+    {
+      "_id": "6484af0f8a1de389c826843b",
+      "name": "Finish Redux",
+      "description": "find desision for dispatch",
+      "status": "3",
+      "priority": "in progress",
+      "__v": 0
+    },
+    {
+      "_id": "6484af2c8a1de389c826843e",
+      "name": "Finish Redux",
+      "description": "find desision for dispatch",
+      "status": "3",
+      "priority": "in progress",
+      "__v": 0
+    },
+    {
+      "_id": "6484b030f95328db10d0cb32",
+      "name": "Start Redux",
+      "description": "start work with redux",
+      "status": "2",
+      "priority": "in progress",
+      "__v": 0
+    },
+    {
+      "_id": "6484b22af95328db10d0cb36",
+      "name": "Start Redux",
+      "description": "start work with redux",
+      "status": "2",
+      "priority": "in progress",
+      "__v": 0
+    },
+    {
+      "_id": "6484ee1ae14eb9a9876116a1",
+      "name": "Start Redux",
+      "description": "start work with redux",
+      "status": "2",
+      "priority": "in progress",
+      "__v": 0
+    },
+    {
+      "_id": "64a60eeb15cd633f99cf2c80",
+      "name": "Learn REACT",
+      "description": "some description",
+      "status": "1",
+      "priority": "todo",
+      "__v": 0
+    },
+    {
+      "_id": "64a93b50062472830ed917d4",
+      "name": "do change task status",
+      "description": "do change task status via server",
+      "status": "63961d16edc05edbb0d97476",
+      "priority": "1",
+      "__v": 0
+    },
+    {
+      "_id": "64b9595eceaa57030771a49a",
+      "name": "Learn Redux!!!",
+      "description": "Redux was created by Dan Abramov and Andrew Clark in 2015. Dan was 23 years old in 2015. What is your excuse?",
+      "status": "done",
+      "priority": "6",
+      "__v": 0
+    },
+    {
+      "_id": "64bf35cf954092a6d9b87673",
+      "name": "Learn DockEr!",
+      "description": "Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers. ",
+      "status": "in progress",
+      "priority": "6",
+      "__v": 0
+    },
+    {
+      "_id": "64bf3a1ad7d3597d009ba0a9",
+      "name": "Do useRef",
+      "description": "This is a new one :) :)",
+      "status": "todo",
+      "priority": "1",
+      "__v": 0
+    },
+    {
+      "_id": "64bf3a73d7d3597d009ba0b1",
+      "name": "Go to the dentist!",
+      "description": "Don't forget!!!",
+      "status": "in progress",
+      "priority": "1",
+      "__v": 0
+    },
+    {
+      "_id": "64bf3a96d7d3597d009ba0b6",
+      "name": "Learn React!",
+      "description": "Yes, learn React!",
+      "status": "done",
+      "priority": "1",
+      "__v": 0
+    },
+    {
+      "_id": "64bff92034f80a6a7529ceb4",
+      "name": "This is the best task!",
+      "description": "I'm the best task here, dont even try to delete me! )))",
+      "status": "in progress",
+      "priority": "3",
+      "__v": 0
+    },
+    {
+      "_id": "64c15e3d8bb6b9b44a741b3f",
+      "name": "Learn UseMemo",
+      "description": "Today",
+      "status": "todo",
+      "priority": "6",
+      "__v": 0
+    },
+    {
+      "_id": "64c3046f0e05e884a8de30ce",
+      "name": "music????",
+      "description": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&",
+      "status": "review",
+      "priority": "1",
+      "__v": 0
+    },
+    {
+      "_id": "64c53d8f1d0a10cbf79cfe37",
+      "name": "( ͡° ͜ʖ ͡°)",
+      "description": "( ͡° ͜ʖ ͡°)( ͡° ͜ʖ ͡°)( ͡° ͜ʖ ͡°)( ͡° ͜ʖ ͡°)( ͡° ͜ʖ ͡°)",
+      "status": "todo",
+      "priority": "6",
+      "__v": 0
+    },
+    {
+      "_id": "64c5bfb72a2acfe274cc8b57",
+      "name": "( ͡° ͜ʖ ͡°)",
+      "description": "( ͡° ͜ʖ ͡°)( ͡° ͜ʖ ͡°)( ͡° ͜ʖ ͡°)( ͡° ͜ʖ ͡°)( ͡° ͜ʖ ͡°)( ͡° ͜ʖ ͡°)( ͡° ͜ʖ ͡°)( ͡° ͜ʖ ͡°)( ͡° ͜ʖ ͡°)( ͡° ͜ʖ ͡°)( ͡° ͜ʖ ͡°)( ͡° ͜ʖ ͡°)( ͡° ͜ʖ ͡°)( ͡° ͜ʖ ͡°)",
+      "status": "done",
+      "priority": "3",
+      "__v": 0
+    },
+    {
+      "_id": "64eff76341ebd8f7051270f4",
+      "name": "111",
+      "description": "222",
+      "status": "review",
+      "priority": "2",
+      "__v": 0
+    }
+  ],
+
+  "statuses": [
+    {
+      "_id": "63961cc83be09ca981162e5f",
+      "title": "todo",
+      "status": "todo",
+      "__v": 0
+    },
+    {
+      "_id": "63961d16edc05edbb0d97476",
+      "title": "in progress",
+      "status": "in progress",
+      "__v": 0
+    },
+    {
+      "_id": "63961d28edc05edbb0d97478",
+      "title": "review",
+      "status": "review",
+      "__v": 0
+    },
+    {
+      "_id": "63961d2fedc05edbb0d9747a",
+      "title": "done",
+      "status": "done",
+      "__v": 0
+    }
+  ]
+}
