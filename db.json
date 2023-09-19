@@ -2,17 +2,73 @@
   "tasks": [
     {
       "id": "1",
-      "name": "Test",
-      "description": "Test",
-      "status": "63961cc83be09ca981162e5f",
+      "name": "Register domain name",
+      "description": "Register igorp.io domain name on Google domains",
+      "status": "done",
       "priority": "1"
     },
     {
       "id": "2",
-      "name": "Test2",
-      "description": "Test2",
+      "name": "Update dns servers on AWS",
+      "description": "Update dns Google domain servers on Route53 (AWS)",
       "status": "done",
+      "priority": "1"
+    },
+    {
+      "id": "3",
+      "name": "Create igorp.io S3",
+      "description": "Create igorp.io S3 bucket",
+      "status": "done",
+      "priority": "1"
+    },
+    {
+      "id": "4",
+      "name": "Create www.igorp.io S3",
+      "description": "Create www.igorp.io S3 bucket and point it to igorp.io",
+      "status": "done",
+      "priority": "1"
+    },
+    {
+      "id": "5",
+      "name": "Create kanban.igorp.io S3",
+      "description": "Create kanban.igorp.io S3 bucket",
+      "status": "review",
+      "priority": "1"
+    },
+    {
+      "id": "6",
+      "name": "Create www.kanban.igorp.io S3",
+      "description": "Create www.kanban.igorp.io S3 bucket and point it to kanban.igorp.io",
+      "status": "review",
+      "priority": "1"
+    },
+    {
+      "id": "7",
+      "name": "Deploy igorp.io/projects",
+      "description": "Deploy igorp.io/projects once kanban will be ready",
+      "status": "todo",
       "priority": "2"
+    },
+    {
+      "id": "8",
+      "name": "Create pipeline in Jenkins",
+      "description": "Create test pipeline in Jenkins with few stages",
+      "status": "review",
+      "priority": "4"
+    },
+    {
+      "id": "9",
+      "name": "Add GitHub Actions to kanban",
+      "description": "Add GitHub Actions to kanban.igorp.io repo",
+      "status": "todo",
+      "priority": "2"
+    },
+    {
+      "id": "10",
+      "name": "Update home page",
+      "description": "Update home page for igorp.io",
+      "status": "done",
+      "priority": "1"
     }
   ],
 
